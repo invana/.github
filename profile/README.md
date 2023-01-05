@@ -1,4 +1,4 @@
-## Hi there 👋
+## Model, create and analyse Graph data 🍿
 
  ![invana-architecture-invana-platform](https://user-images.githubusercontent.com/4606947/210744563-d0a714db-1246-4b3b-a7bf-1c2b73118e9d.jpg)
 
