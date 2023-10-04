@@ -1,6 +1,22 @@
-## Model, create and analyse Graph data 🍿
+# Model, create and analyse Graph data 🍿
 
- ![invana-architecture-invana-platform](https://user-images.githubusercontent.com/4606947/210744563-d0a714db-1246-4b3b-a7bf-1c2b73118e9d.jpg)
+<!-- ![invana-architecture-invana-platform](https://user-images.githubusercontent.com/4606947/210744563-d0a714db-1246-4b3b-a7bf-1c2b73118e9d.jpg) -->
+
+
+
+## Modeller
+- model and Import data as Knowledge Graph
+- Import data from JSON and CSV files
+- Import data from SQL database
+- Merge and Dedupe data from multiple data sources
+
+## Decision Engine
+- setup flow of conditions to create a decision
+- Setup triggers based decision reports
+- schedule decision computations 
+- process large graph using Apache Spark
+- Visualise decision 
+
 
 
 <!--
