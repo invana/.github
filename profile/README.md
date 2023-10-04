@@ -11,14 +11,14 @@ Organise data, generate, execute and monitor decision making graph models.
 - merge and dedupe data from multiple data sources
 
 ## Invana Studio
-- setup decision and reasoning flows - based on patterns, conditions and applying graph computation
+- setup decision trees and reasoning flows - based on patterns, conditions and applying graph computation
 - setup triggers based decision reports
-- schedule decision computations 
+- schedule decision and reasining flows
 - visualise the reason for the decision
 - monitor and validate executed decision
 
 ## Invana Engine 
-- genrate decision and reasoning engine based on a hypothesis.
+- genrate decision and reasoning engine based on flow of conditions ie., hypothesis.
 - process large graph using Apache Spark
 
 
