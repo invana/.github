@@ -18,7 +18,7 @@ Organise data, generate, execute and monitor decision making graph models.
 - monitor and validate executed decision
 
 ## Invana Engine 
-- genrate decision and reasoning engine based on your hypothesis.
+- genrate decision and reasoning engine based on a hypothesis.
 - process large graph using Apache Spark
 
 
