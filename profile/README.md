@@ -25,6 +25,12 @@ Organise data, generate, execute and monitor decision making graph models.
 
 <!--
 
+1. Modeller - model the graph Nodes, Relationships and the properties
+2. Graph Importer - import data into graph from single/multiple sources with merge and dedup strategies
+3. Decision Pipeline - Setup traversals and filters to reach decision 
+4. Visualiser - generic | decision reasoning 
+
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
