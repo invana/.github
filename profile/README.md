@@ -7,6 +7,7 @@
 
   *Open source · Self-hosted · Every answer shows its work*
 
+>  Connect → Model → Ask → Serve → Govern 
   ---
  
   **Building in the open.** The graph layer, the modeller and the explorer are real code today;
